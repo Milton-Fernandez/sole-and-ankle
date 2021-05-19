@@ -49,16 +49,19 @@ align-items: baseline;
 `;
 
 const LeftColumn = styled.div`
-
+margin-right: 100px;
 `;
 
 const MainColumn = styled.div`
 justify-content: space-between;
+
 `;
 
 const Header = styled.header`
 display: flex;
 justify-content: space-between;
+margin-left: 12px;
+margin-right: 12px;
 
 `;
 
